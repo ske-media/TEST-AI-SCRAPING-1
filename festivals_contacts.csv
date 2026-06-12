@@ -1,0 +1,21 @@
+nom,type,date_debut,date_fin,lieu,distance_km,verre_a_laver,organisateur,contact_nom,contact_fonction,contact_email,contact_telephone,site_web
+Montreux Jazz Festival,Musique,2026-07-03,2026-07-18,Montreux VD Suisse,60,oui,Fondation du Festival de Jazz de Montreux,Service billetterie,Billetterie & info public,ticketinfo@mjf.ch,+41 21 966 44 44,https://www.montreuxjazzfestival.com
+Montreux Jazz Festival,Musique,2026-07-03,2026-07-18,Montreux VD Suisse,60,oui,Fondation du Festival de Jazz de Montreux,Info générale,Contact général,info@mjf.ch,+41 21 966 44 44,https://www.montreuxjazzfestival.com
+Paléo Festival Nyon,Musique,2026-07-21,2026-07-26,Nyon VD Suisse,40,oui,Paléo Arts et Spectacles,Contact général,Questions générales,via formulaire site web,+41 22 365 15 15,https://yeah.paleo.ch
+Paléo Festival Nyon,Musique,2026-07-21,2026-07-26,Nyon VD Suisse,40,oui,Paléo Arts et Spectacles,Service stands,Stands restauration/buvette,via formulaire site web,,https://yeah.paleo.ch
+Fêtes de Genève,Musique/Gastronomie,2026-08-01,2026-08-15,Genève Suisse,15,oui,Ville de Genève / Service des Fêtes,Service des manifestations,Organisation générale,fetes@ville-ge.ch,+41 22 418 44 00,https://www.fetesdegeneve.ch
+Musilac,Musique,2026-07-10,2026-07-12,Aix-les-Bains 73 France,60,oui,Musilac / Ville d'Aix-les-Bains,Contact billetterie,Billetterie,billetterie@musilac.com,,https://www.musilac.com
+Musilac,Musique,2026-07-10,2026-07-12,Aix-les-Bains 73 France,60,oui,Musilac / Ville d'Aix-les-Bains,Contact pro,Partenariats,pro@musilac.com,,https://www.musilac.com
+Printemps de Pérouges,Musique,2026-06-23,2026-06-28,Saint-Maurice-de-Rémens 01 France,70,oui,Association Printemps de Pérouges,Contact général,Administration,contact@printempsdeperouges.fr,,https://printempsdeperouges.fr
+Festival de la Cité,Musique/Arts de rue,2026-07-01,2026-07-12,Lausanne VD Suisse,55,oui,Association du Festival de la Cité,Secrétariat,Administration,info@festivaldelacite.ch,+41 21 311 21 17,https://www.festivaldelacite.ch
+Fête du Lac d'Annecy,Feu d'artifice/Gastronomie,2026-08-01,2026-08-01,Annecy 74 France,40,oui,Ville d'Annecy,Service culturel,Organisation,culture@annecy.fr,+33 4 50 33 87 00,https://www.annecy.fr
+Les Noctibules,Musique/Arts de rue,2026-07-15,2026-07-20,Annemasse 74 France,10,oui,Ville d'Annemasse,Service culturel,Organisation,culture@annemasse.fr,+33 4 50 37 33 00,https://www.annemasse.fr
+Festival de la Bâtie,Musique/Théâtre,2026-09-01,2026-09-15,Genève Suisse,15,oui,Association Bâtie,Administration,Contact général,info@batie.ch,+41 22 908 20 20,https://www.batie.ch
+Blues aux Remparts,Musique,2026-07-17,2026-07-19,Voiron 38 France,80,oui,Association Blues aux Remparts,Contact,Administration,contact@bluesauxremparts.com,,https://www.bluesauxremparts.com
+Fête du Blé et du Pain,Gastronomie,2026-08-01,2026-08-03,Echallens VD Suisse,70,oui,Société de la Fête du Blé et du Pain,Secrétariat,Administration,info@feteduble.ch,,https://www.feteduble.ch
+Fête du Reblochon,Gastronomie,2026-08-15,2026-08-17,Thônes 74 France,50,oui,Syndicat du Reblochon / Mairie,Office de tourisme,Information,info@thones.com,+33 4 50 02 00 26,https://www.reblochon.com
+Fête de l'Abondance,Gastronomie,2026-08-08,2026-08-10,Abondance 74 France,60,oui,Mairie d'Abondance,Mairie,Organisation,mairie@abondance.fr,+33 4 50 73 00 11,https://www.abondance.fr
+Foire de Genève,Foire commerciale,2026-08-20,2026-09-05,Genève Suisse,15,oui,Palexpo SA,Palexpo,Organisation,info@palexpo.ch,+41 22 761 11 11,https://www.palexpo.ch
+Fête de la Bière Genève,Gastronomie,2026-08-25,2026-08-30,Genève Suisse,15,oui,Association des Brasseurs Genevois,Association,Organisation,info@bieres-geneve.ch,,https://www.bieres-geneve.ch
+Fête du Lac Lausanne,Musique/Feu d'artifice,2026-08-01,2026-08-01,Lausanne VD Suisse,55,oui,Ville de Lausanne,Service culturel,Organisation,culture@lausanne.ch,+41 21 315 11 11,https://www.lausanne.ch
+Fête du Pain et des Céréales,Gastronomie,2026-08-15,2026-08-17,Rumilly 74 France,35,oui,Mairie de Rumilly,Mairie,Information,mairie@rumilly.fr,+33 4 50 01 64 00,https://www.rumilly.fr

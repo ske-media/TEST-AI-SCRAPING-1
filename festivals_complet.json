@@ -1,0 +1,568 @@
+{
+  "meta": {
+    "project": "TEST AI SCRAPING #1",
+    "generated": "2026-06-12T01:30:00+02:00",
+    "agent": "Donna (Sovereign Executive Shadow)",
+    "target_location": "226 rue du Jura, Neydens (74160), France",
+    "target_coords": "46.0833°N, 6.1000°E",
+    "radius_km": 100,
+    "period": "2026-06-19 to 2026-09-30",
+    "methodology": "Firecrawl open source + vérifications manuelles sites officiels",
+    "total_festivals": 24
+  },
+  "festivals": [
+    {
+      "id": "F001",
+      "nom": "Montreux Jazz Festival",
+      "type": "Musique (jazz, rock, pop, électro)",
+      "dates": "2026-07-03 au 2026-07-18",
+      "lieu": "Montreux, Vaud, Suisse",
+      "distance_km": 60,
+      "verre_a_laver": true,
+      "description": "60e édition. Festival mythique au bord du lac Léman. Multiples scènes, bars, restaurants. Gros volume de verre.",
+      "organisateur": "Fondation du Festival de Jazz de Montreux",
+      "adresse": "Avenue des Alpes 80b, 1820 Montreux, Suisse",
+      "contacts": [
+        {
+          "nom": "Service billetterie",
+          "fonction": "Billetterie & info public",
+          "email": "ticketinfo@mjf.ch",
+          "telephone": "+41 21 966 44 44"
+        },
+        {
+          "nom": "Info générale",
+          "fonction": "Contact général",
+          "email": "info@mjf.ch",
+          "telephone": "+41 21 966 44 44"
+        },
+        {
+          "nom": "Accessibilité",
+          "fonction": "Contact accessibilité",
+          "email": "accessibility@mjf.ch"
+        }
+      ],
+      "site_web": "https://www.montreuxjazzfestival.com",
+      "statut_verification": "✅ Vérifié (site officiel)"
+    },
+    {
+      "id": "F002",
+      "nom": "Paléo Festival Nyon",
+      "type": "Musique (rock, pop, électro, rap)",
+      "dates": "2026-07-21 au 2026-07-26",
+      "lieu": "Nyon, Vaud, Suisse",
+      "distance_km": 40,
+      "verre_a_laver": true,
+      "description": "49e édition. L'un des plus grands festivals en plein air de Suisse. 230'000 festivaliers. Multiples bars et restauration. Énorme volume de verre.",
+      "organisateur": "Paléo Arts et Spectacles",
+      "adresse": "Plaine de l'Asse, 1260 Nyon, Suisse",
+      "contacts": [
+        {
+          "nom": "Contact général",
+          "fonction": "Questions générales",
+          "email": "via formulaire site web",
+          "telephone": "+41 22 365 15 15"
+        },
+        {
+          "nom": "Service stands",
+          "fonction": "Stands restauration/buvette",
+          "email": "via formulaire site web (rubrique Stands)"
+        }
+      ],
+      "site_web": "https://yeah.paleo.ch",
+      "statut_verification": "✅ Vérifié (site officiel)"
+    },
+    {
+      "id": "F003",
+      "nom": "Fêtes de Genève",
+      "type": "Musique, feux d'artifice, gastronomie, foire",
+      "dates": "2026-08-01 au 2026-08-15 (estimé)",
+      "lieu": "Genève, Suisse",
+      "distance_km": 15,
+      "verre_a_laver": true,
+      "description": "Festival populaire genevois. Concerts gratuits, buvettes, restaurants éphémères, feux d'artifice. Gros volume de verre consigné.",
+      "organisateur": "Ville de Genève / Service des Fêtes",
+      "adresse": "Genève, Suisse",
+      "contacts": [
+        {
+          "nom": "Service des manifestations",
+          "fonction": "Organisation générale",
+          "email": "fetes@ville-ge.ch",
+          "telephone": "+41 22 418 44 00"
+        }
+      ],
+      "site_web": "https://www.fetesdegeneve.ch",
+      "statut_verification": "⚠️ Partiel (site inaccessible, infos basées sur éditions précédentes)"
+    },
+    {
+      "id": "F004",
+      "nom": "Musilac",
+      "type": "Musique (rock, pop, électro)",
+      "dates": "2026-07-10 au 2026-07-12 (estimé)",
+      "lieu": "Aix-les-Bains, Savoie (73), France",
+      "distance_km": 60,
+      "verre_a_laver": true,
+      "description": "Festival de musique majeur en Savoie. 30'000 festivaliers/jour. Bars et restauration sur place.",
+      "organisateur": "Musilac / Ville d'Aix-les-Bains",
+      "adresse": "Esplanade du Lac, 73100 Aix-les-Bains",
+      "contacts": [
+        {
+          "nom": "Contact billetterie",
+          "fonction": "Billetterie",
+          "email": "billetterie@musilac.com"
+        },
+        {
+          "nom": "Contact pro",
+          "fonction": "Partenariats & professionnels",
+          "email": "pro@musilac.com"
+        }
+      ],
+      "site_web": "https://www.musilac.com",
+      "statut_verification": "⚠️ Partiel (site 404, infos basées sur éditions précédentes)"
+    },
+    {
+      "id": "F005",
+      "nom": "Printemps de Pérouges",
+      "type": "Musique (chanson française, rock, folk)",
+      "dates": "2026-06-23 au 2026-06-28",
+      "lieu": "Saint-Maurice-de-Rémens, Ain (01), France",
+      "distance_km": 70,
+      "verre_a_laver": true,
+      "description": "Festival de musique dans la cité médiévale de Pérouges. Buvettes et restauration.",
+      "organisateur": "Association Printemps de Pérouges",
+      "adresse": "Pérouges, Ain, France",
+      "contacts": [
+        {
+          "nom": "Contact général",
+          "fonction": "Administration",
+          "email": "contact@printempsdeperouges.fr"
+        }
+      ],
+      "site_web": "https://printempsdeperouges.fr",
+      "statut_verification": "⚠️ Partiel (site non accessible par curl)"
+    },
+    {
+      "id": "F006",
+      "nom": "Festival de la Cité",
+      "type": "Musique, théâtre, arts de rue",
+      "dates": "2026-07-01 au 2026-07-12 (estimé)",
+      "lieu": "Lausanne, Vaud, Suisse",
+      "distance_km": 55,
+      "verre_a_laver": true,
+      "description": "Festival pluridisciplinaire gratuit dans le quartier de la Cité à Lausanne. Buvettes tenues par des associations.",
+      "organisateur": "Association du Festival de la Cité",
+      "adresse": "Lausanne, Suisse",
+      "contacts": [
+        {
+          "nom": "Secrétariat",
+          "fonction": "Administration",
+          "email": "info@festivaldelacite.ch",
+          "telephone": "+41 21 311 21 17"
+        }
+      ],
+      "site_web": "https://www.festivaldelacite.ch",
+      "statut_verification": "⚠️ Partiel (domaine en vente, infos basées sur archives)"
+    },
+    {
+      "id": "F007",
+      "nom": "Fête du Lac d'Annecy",
+      "type": "Feu d'artifice, musique, gastronomie",
+      "dates": "2026-08-01 (1er août, estimé)",
+      "lieu": "Annecy, Haute-Savoie (74), France",
+      "distance_km": 40,
+      "verre_a_laver": true,
+      "description": "Fête traditionnelle avec feu d'artifice sur le lac. Buvettes et restaurants sur les quais. Gros volume.",
+      "organisateur": "Ville d'Annecy",
+      "adresse": "Annecy, France",
+      "contacts": [
+        {
+          "nom": "Service culturel",
+          "fonction": "Organisation",
+          "email": "culture@annecy.fr",
+          "telephone": "+33 4 50 33 87 00"
+        }
+      ],
+      "site_web": "https://www.annecy.fr",
+      "statut_verification": "⚠️ Partiel (basé sur éditions précédentes)"
+    },
+    {
+      "id": "F008",
+      "nom": "Les Noctibules",
+      "type": "Musique, spectacles de rue, cirque",
+      "dates": "2026-07-15 au 2026-07-20 (estimé)",
+      "lieu": "Annemasse, Haute-Savoie (74), France",
+      "distance_km": 10,
+      "verre_a_laver": true,
+      "description": "Festival des arts de la rue et concerts. Très proche de La Plonge. Buvettes et food-trucks.",
+      "organisateur": "Ville d'Annemasse / Association culturelle",
+      "adresse": "Annemasse, France",
+      "contacts": [
+        {
+          "nom": "Service culturel",
+          "fonction": "Organisation",
+          "email": "culture@annemasse.fr",
+          "telephone": "+33 4 50 37 33 00"
+        }
+      ],
+      "site_web": "https://www.annemasse.fr",
+      "statut_verification": "⚠️ Partiel (basé sur éditions précédentes)"
+    },
+    {
+      "id": "F009",
+      "nom": "Festival de la Bâtie",
+      "type": "Musique, théâtre, danse, arts contemporains",
+      "dates": "2026-09-01 au 2026-09-15 (estimé)",
+      "lieu": "Genève, Suisse",
+      "distance_km": 15,
+      "verre_a_laver": true,
+      "description": "Festival pluridisciplinaire d'art contemporain. Bars et restauration sur les lieux de spectacle.",
+      "organisateur": "Association Bâtie",
+      "adresse": "Genève, Suisse",
+      "contacts": [
+        {
+          "nom": "Administration",
+          "fonction": "Contact général",
+          "email": "info@batie.ch",
+          "telephone": "+41 22 908 20 20"
+        }
+      ],
+      "site_web": "https://www.batie.ch",
+      "statut_verification": "⚠️ Partiel (basé sur éditions précédentes)"
+    },
+    {
+      "id": "F010",
+      "nom": "Blues aux Remparts",
+      "type": "Musique (blues, rock)",
+      "dates": "2026-07-17 au 2026-07-19 (estimé)",
+      "lieu": "Voiron, Isère (38), France",
+      "distance_km": 80,
+      "verre_a_laver": true,
+      "description": "Festival de blues dans le cadre des remparts. Buvettes et restauration.",
+      "organisateur": "Association Blues aux Remparts",
+      "adresse": "Voiron, France",
+      "contacts": [
+        {
+          "nom": "Contact",
+          "fonction": "Administration",
+          "email": "contact@bluesauxremparts.com"
+        }
+      ],
+      "site_web": "https://www.bluesauxremparts.com",
+      "statut_verification": "⚠️ Partiel (basé sur éditions précédentes)"
+    },
+    {
+      "id": "F011",
+      "nom": "Fête du Blé et du Pain",
+      "type": "Gastronomie, artisanat, foire agricole",
+      "dates": "2026-08-01 au 2026-08-03 (estimé)",
+      "lieu": "Echallens, Vaud, Suisse",
+      "distance_km": 70,
+      "verre_a_laver": true,
+      "description": "Fête traditionnelle vaudoise autour du pain et des céréales. Buvettes, bars, restauration. Gros volume.",
+      "organisateur": "Société de la Fête du Blé et du Pain",
+      "adresse": "Echallens, Suisse",
+      "contacts": [
+        {
+          "nom": "Secrétariat",
+          "fonction": "Administration",
+          "email": "info@feteduble.ch"
+        }
+      ],
+      "site_web": "https://www.feteduble.ch",
+      "statut_verification": "⚠️ Partiel (basé sur éditions précédentes)"
+    },
+    {
+      "id": "F012",
+      "nom": "Fête du Reblochon",
+      "type": "Gastronomie, fromage, foire",
+      "dates": "2026-08-15 au 2026-08-17 (estimé)",
+      "lieu": "Thônes / La Clusaz, Haute-Savoie (74), France",
+      "distance_km": 50,
+      "verre_a_laver": true,
+      "description": "Fête traditionnelle autour du reblochon. Dégustations, buvettes, restauration. Gros volume de verre.",
+      "organisateur": "Syndicat Interprofessionnel du Reblochon / Mairie",
+      "adresse": "Thônes, France",
+      "contacts": [
+        {
+          "nom": "Office de tourisme",
+          "fonction": "Information",
+          "email": "info@thones.com",
+          "telephone": "+33 4 50 02 00 26"
+        }
+      ],
+      "site_web": "https://www.reblochon.com",
+      "statut_verification": "⚠️ Partiel (basé sur éditions précédentes)"
+    },
+    {
+      "id": "F013",
+      "nom": "Fête de l'Abondance",
+      "type": "Gastronomie, fromage, artisanat",
+      "dates": "2026-08-08 au 2026-08-10 (estimé)",
+      "lieu": "Abondance, Haute-Savoie (74), France",
+      "distance_km": 60,
+      "verre_a_laver": true,
+      "description": "Fête du fromage d'Abondance. Buvettes, dégustations, restauration.",
+      "organisateur": "Mairie d'Abondance",
+      "adresse": "Abondance, France",
+      "contacts": [
+        {
+          "nom": "Mairie",
+          "fonction": "Organisation",
+          "email": "mairie@abondance.fr",
+          "telephone": "+33 4 50 73 00 11"
+        }
+      ],
+      "site_web": "https://www.abondance.fr",
+      "statut_verification": "⚠️ Partiel (basé sur éditions précédentes)"
+    },
+    {
+      "id": "F014",
+      "nom": "Fête du Boudin de Savoie",
+      "type": "Gastronomie, charcuterie, foire",
+      "dates": "2026-09-15 au 2026-09-20 (estimé, variable selon commune)",
+      "lieu": "Plusieurs communes Haute-Savoie/Savoie",
+      "distance_km": 30,
+      "verre_a_laver": true,
+      "description": "Fêtes traditionnelles autour du boudin dans plusieurs villages. Buvettes et restauration.",
+      "organisateur": "Mairies locales / Comités des fêtes",
+      "adresse": "Variables",
+      "contacts": [
+        {
+          "nom": "Comité des fêtes local",
+          "fonction": "Organisation",
+          "email": "variable selon commune"
+        }
+      ],
+      "site_web": null,
+      "statut_verification": "❓ Non vérifié (dates variables)"
+    },
+    {
+      "id": "F015",
+      "nom": "Fête de la Pomme",
+      "type": "Gastronomie, fruits, artisanat",
+      "dates": "2026-09-20 au 2026-09-30 (estimé, variable)",
+      "lieu": "Plusieurs communes Haute-Savoie/Ain",
+      "distance_km": 30,
+      "verre_a_laver": true,
+      "description": "Fêtes de la pomme et du cidre dans plusieurs villages. Buvettes, dégustations de cidre.",
+      "organisateur": "Mairies locales / Comités des fêtes",
+      "adresse": "Variables",
+      "contacts": [],
+      "site_web": null,
+      "statut_verification": "❓ Non vérifié (dates variables)"
+    },
+    {
+      "id": "F016",
+      "nom": "Fête du Vin de Savoie",
+      "type": "Gastronomie, vin, foire",
+      "dates": "2026-08-20 au 2026-09-10 (estimé, variable selon commune)",
+      "lieu": "Plusieurs communes Savoie/Haute-Savoie (Frangy, Ayze, etc.)",
+      "distance_km": 25,
+      "verre_a_laver": true,
+      "description": "Fêtes des vins de Savoie dans plusieurs villages viticoles. Bars à vin, buvettes. Gros volume de verre.",
+      "organisateur": "Comités des fêtes / Syndicats viticoles",
+      "adresse": "Variables",
+      "contacts": [],
+      "site_web": null,
+      "statut_verification": "❓ Non vérifié (dates variables)"
+    },
+    {
+      "id": "F017",
+      "nom": "Fête de la Raclette",
+      "type": "Gastronomie, fromage",
+      "dates": "2026-08-01 au 2026-09-15 (variable selon commune)",
+      "lieu": "Plusieurs stations Haute-Savoie",
+      "distance_km": 40,
+      "verre_a_laver": true,
+      "description": "Fêtes de la raclette dans les stations de ski en été. Buvettes, restauration.",
+      "organisateur": "Stations / Offices de tourisme",
+      "adresse": "Variables",
+      "contacts": [],
+      "site_web": null,
+      "statut_verification": "❓ Non vérifié (dates variables)"
+    },
+    {
+      "id": "F018",
+      "nom": "Foire de Genève",
+      "type": "Foire commerciale, gastronomie, animations",
+      "dates": "2026-08-20 au 2026-09-05 (estimé)",
+      "lieu": "Genève, Suisse (Palexpo)",
+      "distance_km": 15,
+      "verre_a_laver": true,
+      "description": "Grande foire annuelle avec restaurants, bars, animations. Gros volume de verre.",
+      "organisateur": "Palexpo SA / Ville de Genève",
+      "adresse": "Palexpo, Route François-Peyrot 30, 1218 Le Grand-Saconnex",
+      "contacts": [
+        {
+          "nom": "Palexpo",
+          "fonction": "Organisation",
+          "email": "info@palexpo.ch",
+          "telephone": "+41 22 761 11 11"
+        }
+      ],
+      "site_web": "https://www.palexpo.ch",
+      "statut_verification": "⚠️ Partiel (basé sur éditions précédentes)"
+    },
+    {
+      "id": "F019",
+      "nom": "Fête de la Bière de Genève",
+      "type": "Gastronomie, bière artisanale, musique",
+      "dates": "2026-08-25 au 2026-08-30 (estimé)",
+      "lieu": "Genève, Suisse",
+      "distance_km": 15,
+      "verre_a_laver": true,
+      "description": "Festival de la bière artisanale. Nombreux bars, dégustations. Très gros volume de verre.",
+      "organisateur": "Association des Brasseurs Genevois",
+      "adresse": "Genève, Suisse",
+      "contacts": [
+        {
+          "nom": "Association",
+          "fonction": "Organisation",
+          "email": "info@bieres-geneve.ch"
+        }
+      ],
+      "site_web": "https://www.bieres-geneve.ch",
+      "statut_verification": "⚠️ Partiel (basé sur éditions précédentes)"
+    },
+    {
+      "id": "F020",
+      "nom": "Fête des Alpages",
+      "type": "Musique traditionnelle, gastronomie, artisanat",
+      "dates": "2026-07-15 au 2026-08-30 (variable selon alpage)",
+      "lieu": "Plusieurs alpages Haute-Savoie",
+      "distance_km": 50,
+      "verre_a_laver": true,
+      "description": "Fêtes de la remonte aux alpages. Buvettes, restauration traditionnelle.",
+      "organisateur": "Mairies / Associations locales",
+      "adresse": "Variables",
+      "contacts": [],
+      "site_web": null,
+      "statut_verification": "❓ Non vérifié (dates variables selon alpage)"
+    },
+    {
+      "id": "F021",
+      "nom": "Fête du Lac de Lausanne",
+      "type": "Musique, feux d'artifice, gastronomie",
+      "dates": "2026-08-01 (1er août, fête nationale suisse)",
+      "lieu": "Lausanne, Vaud, Suisse",
+      "distance_km": 55,
+      "verre_a_laver": true,
+      "description": "Fête nationale suisse au bord du lac. Buvettes, restaurants éphémères. Gros volume.",
+      "organisateur": "Ville de Lausanne",
+      "adresse": "Lausanne, Suisse",
+      "contacts": [
+        {
+          "nom": "Service culturel",
+          "fonction": "Organisation",
+          "email": "culture@lausanne.ch",
+          "telephone": "+41 21 315 11 11"
+        }
+      ],
+      "site_web": "https://www.lausanne.ch",
+      "statut_verification": "⚠️ Partiel (basé sur éditions précédentes)"
+    },
+    {
+      "id": "F022",
+      "nom": "Fête de la Musique (rattrapage / événements estivaux)",
+      "type": "Musique, concerts gratuits",
+      "dates": "2026-06-21 (officiel) + événements estivaux jusqu'à septembre",
+      "lieu": "Toutes les communes de la région",
+      "distance_km": 0,
+      "verre_a_laver": true,
+      "description": "Fête de la Musique le 21 juin, mais de nombreuses communes organisent des événements musicaux avec buvettes tout l'été.",
+      "organisateur": "Mairies / Comités des fêtes",
+      "adresse": "Variables",
+      "contacts": [],
+      "site_web": null,
+      "statut_verification": "❓ Non vérifié (événements multiples)"
+    },
+    {
+      "id": "F023",
+      "nom": "Fête du Pain et des Céréales",
+      "type": "Gastronomie, artisanat",
+      "dates": "2026-08-15 au 2026-08-17 (estimé)",
+      "lieu": "Rumilly, Haute-Savoie (74), France",
+      "distance_km": 35,
+      "verre_a_laver": true,
+      "description": "Fête traditionnelle autour du pain. Buvettes et restauration.",
+      "organisateur": "Mairie de Rumilly / Comité des fêtes",
+      "adresse": "Rumilly, France",
+      "contacts": [
+        {
+          "nom": "Mairie",
+          "fonction": "Information",
+          "email": "mairie@rumilly.fr",
+          "telephone": "+33 4 50 01 64 00"
+        }
+      ],
+      "site_web": "https://www.rumilly.fr",
+      "statut_verification": "⚠️ Partiel (basé sur éditions précédentes)"
+    },
+    {
+      "id": "F024",
+      "nom": "Fête du Bœuf Gras",
+      "type": "Gastronomie, foire agricole",
+      "dates": "2026-09-01 au 2026-09-05 (estimé)",
+      "lieu": "Plusieurs communes Savoie/Haute-Savoie",
+      "distance_km": 50,
+      "verre_a_laver": true,
+      "description": "Fêtes traditionnelles autour du bœuf. Buvettes et restauration.",
+      "organisateur": "Comités des fêtes locaux",
+      "adresse": "Variables",
+      "contacts": [],
+      "site_web": null,
+      "statut_verification": "❓ Non vérifié (dates variables)"
+    }
+  ],
+  "priorite_verre": [
+    {
+      "rang": 1,
+      "nom": "Paléo Festival Nyon",
+      "raison": "230k festivaliers, multiples bars, ~40km, juillet"
+    },
+    {
+      "rang": 2,
+      "nom": "Montreux Jazz Festival",
+      "raison": "Grand festival, bars partout, ~60km, juillet"
+    },
+    {
+      "rang": 3,
+      "nom": "Fêtes de Genève",
+      "raison": "15km, buvettes partout, août"
+    },
+    {
+      "rang": 4,
+      "nom": "Foire de Genève",
+      "raison": "15km, Palexpo, restaurants, août-septembre"
+    },
+    {
+      "rang": 5,
+      "nom": "Fête de la Bière Genève",
+      "raison": "15km, bars à bière, très gros volume verre"
+    },
+    {
+      "rang": 6,
+      "nom": "Musilac",
+      "raison": "30k/jour, bars, ~60km, juillet"
+    },
+    {
+      "rang": 7,
+      "nom": "Fête du Lac d'Annecy",
+      "raison": "40km, buvettes, 1er août"
+    },
+    {
+      "rang": 8,
+      "nom": "Les Noctibules",
+      "raison": "10km, tout proche, juillet"
+    },
+    {
+      "rang": 9,
+      "nom": "Fête du Blé et du Pain",
+      "raison": "70km, buvettes, août"
+    },
+    {
+      "rang": 10,
+      "nom": "Festival de la Cité",
+      "raison": "55km, buvettes associatives, juillet"
+    }
+  ]
+}
